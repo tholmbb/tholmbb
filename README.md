@@ -1,5 +1,11 @@
-# 💫 About Me:
-🎓 Studying Information and Communication Technology at JAMK University of Applied Sciences<br>🔐 Interested in networking and cybersecurity<br>💼 Currently working in IT support (Helpdesk)<br>🧠 Always eager to learn new technologies and improve my skills<br>🌍 Open to collaboration and real-world projects
+## 👋 Hi, I'm Tino
+
+- 🎓 ICT student at JAMK University of Applied Sciences  
+- 🔐 Interested in networking and cybersecurity  
+- 💼 Currently working in IT support (Helpdesk) 
+- 🛠️ Using GitHub for personal projects, GitLab at school  
+- 🌱 Always learning and exploring new technologies
+
 
 
 
