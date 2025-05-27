@@ -7,8 +7,6 @@
 - 🌱 Always learning and exploring new technologies
 
 
-
-
 # 💻 Tech Stack:
 
 ### 🧑‍💻 Languages & Scripting
@@ -39,7 +37,8 @@
 
  ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
  ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)<br><br>
- 
+
+ ---
 
 ![](https://nirzak-streak-stats.vercel.app/?user=tholmbb&theme=dark&hide_border=false)<br/>
 
