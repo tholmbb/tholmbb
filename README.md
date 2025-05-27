@@ -38,11 +38,9 @@
 ### 📊 Monitoring & Observability
 
  ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
- ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
+ ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)<br><br>
  
- 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=tholmbb&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
 ![](https://nirzak-streak-stats.vercel.app/?user=tholmbb&theme=dark&hide_border=false)<br/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
