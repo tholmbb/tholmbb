@@ -42,6 +42,5 @@
  ## Some epic(and completely relevant) stats:
 
 ![](https://nirzak-streak-stats.vercel.app/?user=tholmbb&theme=dark&hide_border=false)<br/>
-(Whatever the streak says, thats how many days ive been typing the magic words, no automation..)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
