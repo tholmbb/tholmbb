@@ -39,8 +39,5 @@
  ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
  ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)<br><br>
 
- ## Some epic(and completely relevant) stats:
-
-![](https://nirzak-streak-stats.vercel.app/?user=tholmbb&theme=dark&hide_border=false)<br/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
